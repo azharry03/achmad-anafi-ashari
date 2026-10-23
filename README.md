@@ -1,5 +1,3 @@
-# achmad-anafi-ashari
-porto
 # Halo, Saya Achmad Anafi Ashari 👋
 
 <p align="left">
